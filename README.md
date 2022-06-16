@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kartikchauhan13
 - 👀 I’m interested in web development , api , app developemnt and docker 
-- 🌱 I’m currently learning python and font end web dev
+- 🌱 I’m currently learning python and front end web dev
 - 💞️ I’m looking to collaborate on api , web and app development 
 - 📫 How to reach me -> mail me at kcmail823@gmail.com
 
