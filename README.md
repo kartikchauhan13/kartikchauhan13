@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kartikchauhan13
 - 👀 I’m interested in data analysis, web development , api , app developemnt and docker 
-- 🌱 I’m currently learning python and data analysis 
+- 🌱 I’m currently learning python and web Application
 - 💞️ I’m looking to collaborate on api , web ,data analysis and app development 
 - 📫 How to reach me -> mail me at kcmail823@gmail.com
 
