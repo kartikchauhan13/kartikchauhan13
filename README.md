@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kartikchauhan13
-- 👀 I’m interested in web development , api , app developemnt and docker 
-- 🌱 I’m currently learning React and web Applications
-- 💞️ I’m looking to collaborate on api , web ,data analysis and app development 
+- 👀 I’m interested in CDP , api , app developemnt and cloud computing 
+- 🌱 I’m currently learning python and Computer science
+- 💞️ I’m looking to collaborate on fun projects ,data analysis and app development 
 - 📫 How to reach me -> mail me at kcmail823@gmail.com
 
 <!---
